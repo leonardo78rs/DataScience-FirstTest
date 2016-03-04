@@ -1,3 +1,4 @@
 # FirstTest
-Repo as a test for knowledge
-Part of course DSTB
+Repo as a test for knowledge.
+
+of course DSTB
